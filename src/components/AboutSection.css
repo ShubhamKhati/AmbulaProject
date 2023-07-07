@@ -1,0 +1,23 @@
+.aboutSectionContainer{
+    border: solid white;
+    background: url('https://www.coldflowmechanical.com.au/wp-content/uploads/2014/08/contact-us-page-blue-background.jpg');
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aboutProjectContainer{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.8);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1.3);
+}
+p{
+    color: yellow;
+}
