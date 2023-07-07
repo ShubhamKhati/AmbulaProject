@@ -1,3 +1,8 @@
+/*Todoli:
+
+Description: Renders individual todo items in the list.
+Functionality: Displays a single todo item and allows users to delete it. */
+
 import React from 'react'
 
 function Todoli(props) {

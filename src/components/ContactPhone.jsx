@@ -1,3 +1,8 @@
+/*ContactPhone:
+
+Description: Renders a contact form component.
+Functionality: Provides a form for users to enter their name, email, and enquiry message. */
+
 import React from 'react'
 import './ContactPhone.css'
 function ContactPhone() {

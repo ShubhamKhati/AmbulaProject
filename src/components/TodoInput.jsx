@@ -1,3 +1,8 @@
+/*TodoInput:
+
+Description: Renders the input component for the todo list.
+Functionality: Provides an input box for users to enter new todo items and adds them to the list when submitted. */
+
 import React,{useState} from "react";
 
 function TodoInput(props) {

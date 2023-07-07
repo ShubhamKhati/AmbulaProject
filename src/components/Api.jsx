@@ -1,3 +1,9 @@
+/*Api:
+
+Description: Renders the API component to display a random cat image from an external API.
+Functionality: Fetches a random cat image using thecatapi.com API and displays it. Allows the user to click a button to fetch a new image.*/
+
+
 import  {useState} from 'react';
 import './Api.css'
 function Api() {

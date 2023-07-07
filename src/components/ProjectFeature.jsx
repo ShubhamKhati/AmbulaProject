@@ -1,3 +1,9 @@
+
+/*ProjectFeature:
+
+Description: Renders the project feature component.
+Functionality: Displays images linking to different project sections of the app. */
+
 import React from 'react'
 import { Link } from 'react-router-dom';
 import './ProjectFeature.css'

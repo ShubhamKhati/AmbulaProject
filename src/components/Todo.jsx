@@ -1,3 +1,8 @@
+/*Todo:
+
+Description: Renders the todo list component.
+Functionality: Manages the state of the todo list, allowing users to add and delete items. */
+
 import React, { useState } from 'react'
 import "./Todo.css"
 import TodoInput from './TodoInput'

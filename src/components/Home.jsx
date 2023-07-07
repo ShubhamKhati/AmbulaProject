@@ -1,3 +1,8 @@
+/*Home:
+
+Description: Renders the home component.
+Functionality: Displays a welcome message and a brief description of the app. */
+
 import React, { useState } from 'react';
 import './Home.css';
 

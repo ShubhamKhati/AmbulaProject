@@ -1,3 +1,9 @@
+/*Cart:
+
+Description: Renders the cart component for a shopping app.
+Functionality: Manages the state of the products and cart items. Allows adding products to the cart, updating quantities, and displaying the total price.*/
+
+
 import './Cart.css';
 import Header from './Headerr';
 import ProductList from './ProductList';

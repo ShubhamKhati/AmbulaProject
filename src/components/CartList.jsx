@@ -1,3 +1,9 @@
+/*CartList:
+
+Description: Renders the list of items in the cart.
+Functionality: Displays the cart items, allows increasing or decreasing quantities, and calculates the total price. */
+
+
 import { useEffect, useState } from 'react';
 import './Cart.css';
 

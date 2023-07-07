@@ -1,3 +1,8 @@
+/*Headerr:
+
+Description: Renders the header component for the cart.
+Functionality: Displays the shopping cart icon and the number of items in the cart. Allows toggling between the cart and product list. */
+
 import './Cart.css';
 
 function Headerr(props) {

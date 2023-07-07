@@ -1,3 +1,10 @@
+/*AboutSection:
+
+Description: Renders the about section of the app.
+Functionality: Displays information about the healthcare platform and its mission
+*/
+
+
 import React from 'react'
 import './AboutSection.css'
 function AboutSection() {
